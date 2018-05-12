@@ -1,0 +1,33 @@
+_repo: The-Kirk-on-Rutgers-Farm_25293
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Stone, Pauline
+    gutenberg_agent_id: '31221'
+    url: http://www.gutenberg.org/2009/agents/31221
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brückbauer, Frederick
+    alias: Bruckbauer, Frederick
+    birthdate: 1864
+    gutenberg_agent_id: '31222'
+    url: http://www.gutenberg.org/2009/agents/31222
+description: ''
+gutenberg_issued: '2008-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25293'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Rutgers, Henry, 1745-1830'
+- !lcsh 'Market Street Dutch Reformed Church (New York, N.Y.)'
+- !lcsh 'Presbyterian Church of the Sea and Land (New York, N.Y.)'
+title: The Kirk on Rutgers Farm
+url: http://www.gutenberg.org/ebooks/25293
